@@ -1,8 +1,10 @@
 .lead__image {
     margin-bottom: 8px;
     max-width: 984px;
+    max-height: 615px;
     width: 100%;
     height: auto;
     -o-object-fit: cover;
     object-fit: cover;
 }
+
